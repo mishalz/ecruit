@@ -1,0 +1,2 @@
+Make sure mysql server is up.
+Insert your root username and password in application.properties and DatabaseConfig.java
